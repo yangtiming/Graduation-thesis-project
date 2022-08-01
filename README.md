@@ -17,17 +17,17 @@ Methods of data augmentation adopted in training:MixUp,CutMix,RandomErasing,Triv
 
 Methods of data augmentation adopted in testing: Horizon Flip,CenterCrop, RandomCrop
 
-<img src="https://github.com/yangtiming/Graduation-thesis-project/blob/master/imgs/g-1.jpeg" width="1000px">
+<img src="https://github.com/yangtiming/Graduation-thesis-project/blob/master/imgs/g-1.jpeg" width="700px">
 
 #### Snapshot ensembles
 
 The weights of data augmentation are used in Snapshot ensembles
 
-<img src="https://github.com/yangtiming/Graduation-thesis-project/blob/master/imgs/g-2.jpeg" width="1000px">
+<img src="https://github.com/yangtiming/Graduation-thesis-project/blob/master/imgs/g-2.jpeg" width="700px">
 
 #### results
 
-<img src="https://github.com/yangtiming/Graduation-thesis-project/blob/master/imgs/g-3.jpeg" width="1000px">
+<img src="https://github.com/yangtiming/Graduation-thesis-project/blob/master/imgs/g-3.jpeg" width="400px">
 
 ### 2.data augmentation && Snapshot ensembles
 
