@@ -41,10 +41,16 @@ Significance: In few shot learning, there are very few ViT and derivative model 
 
 
 #### Results-one
+
+Res9ViT-xxx mean Res9ViT derivative model, which is described in the thesis
+
 <img src="https://github.com/yangtiming/Graduation-thesis-project/blob/master/imgs/g-6.png" width="400px">
 <img src="https://github.com/yangtiming/Graduation-thesis-project/blob/master/imgs/g-7.png" width="400px">
 
-#### Results-one
+#### Results-two
+
+Res9ViT-xxx mean Res9ViT derivative model, which is described in the thesis
+
 <img src="https://github.com/yangtiming/Graduation-thesis-project/blob/master/imgs/g-8.png" width="400px">
 <img src="https://github.com/yangtiming/Graduation-thesis-project/blob/master/imgs/g-9.png" width="400px">
 
