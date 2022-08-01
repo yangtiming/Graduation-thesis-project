@@ -11,9 +11,27 @@ In this thesis, firstly, a garbage classification dataset of 47951 images is con
 #### Key Words：Few Shot Learning; Self-built Dataset; Data Augmentation; Residual Network; Vision Transformer
 
 ## some highlight content
-### data augmentation && Snapshot ensembles
-#### 1.Overall flow chart of thought
+### 1.data augmentation && Snapshot ensembles
+#### data augmentation:Overall flow chart of thought
 Methods of data augmentation adopted in training:MixUp,CutMix,RandomErasing,TrivialAugment
 
 Methods of data augmentation adopted in testing: Horizon Flip,CenterCrop, RandomCrop
+
+<img src="https://github.com/yangtiming/Graduation-thesis-project/blob/master/imgs/g-1.jpeg" width="1000px">
+
+#### Snapshot ensembles
+
+The weights of data augmentation are used in Snapshot ensembles
+
+<img src="https://github.com/yangtiming/Graduation-thesis-project/blob/master/imgs/g-2.jpeg" width="1000px">
+
+#### results
+
+<img src="https://github.com/yangtiming/Graduation-thesis-project/blob/master/imgs/g-3.jpeg" width="1000px">
+
+### 2.data augmentation && Snapshot ensembles
+
+
+
+
 
