@@ -10,8 +10,8 @@ In this thesis, firstly, a garbage classification dataset of 47951 images is con
 
 #### Key Words：Few Shot Learning; Self-built Dataset; Data Augmentation; Residual Network; Vision Transformer
 
-## some highlight content
-### 1.data augmentation && Snapshot ensembles
+# some highlight content
+## 1.data augmentation && Snapshot ensembles
 #### data augmentation:Overall flow chart of thought
 Methods of data augmentation adopted in training:MixUp,CutMix,RandomErasing,TrivialAugment
 
@@ -29,7 +29,12 @@ The weights of data augmentation are used in Snapshot ensembles
 
 <img src="https://github.com/yangtiming/Graduation-thesis-project/blob/master/imgs/g-3.jpeg" width="400px">
 
-### 2.data augmentation && Snapshot ensembles
+## 2.Vision Transformer improved model - Res9ViT
+Res9ViT mean ResNet9 + Vision Transformer
+
+Significance: In few shot learning, there are very few ViT and derivative model papers, so this direction has high research value.
+
+
 
 
 
