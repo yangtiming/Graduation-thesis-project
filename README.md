@@ -34,6 +34,9 @@ Res9ViT mean ResNet9 + Vision Transformer
 
 Significance: In few shot learning, there are very few ViT and derivative model papers, so this direction has high research value.
 
+#### Res9ViT && model parameters
+
+<img src="https://github.com/yangtiming/Graduation-thesis-project/blob/master/imgs/g-4.png" width="400px">
 
 
 
