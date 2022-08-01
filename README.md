@@ -37,9 +37,14 @@ Significance: In few shot learning, there are very few ViT and derivative model 
 #### Res9ViT && model parameters
 
 <img src="https://github.com/yangtiming/Graduation-thesis-project/blob/master/imgs/g-4.png" width="400px">
+<img src="https://github.com/yangtiming/Graduation-thesis-project/blob/master/imgs/g-5.png" width="400px">
 
 
+#### Results-one
+<img src="https://github.com/yangtiming/Graduation-thesis-project/blob/master/imgs/g-6.png" width="400px">
+<img src="https://github.com/yangtiming/Graduation-thesis-project/blob/master/imgs/g-7.png" width="400px">
 
-
-
+#### Results-one
+<img src="https://github.com/yangtiming/Graduation-thesis-project/blob/master/imgs/g-8.png" width="400px">
+<img src="https://github.com/yangtiming/Graduation-thesis-project/blob/master/imgs/g-9.png" width="400px">
 
